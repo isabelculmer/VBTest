@@ -1,0 +1,9 @@
+\\holmes\home\staff\imc\visual studio 2012\Projects\11warship\11warship\bin\Debug\11warship.exe.config
+\\holmes\home\staff\imc\visual studio 2012\Projects\11warship\11warship\bin\Debug\11warship.exe
+\\holmes\home\staff\imc\visual studio 2012\Projects\11warship\11warship\bin\Debug\11warship.pdb
+\\holmes\home\staff\imc\visual studio 2012\Projects\11warship\11warship\bin\Debug\11warship.xml
+\\holmes\home\staff\imc\visual studio 2012\Projects\11warship\11warship\obj\Debug\ConsoleApplication1.Resources.resources
+\\holmes\home\staff\imc\visual studio 2012\Projects\11warship\11warship\obj\Debug\11warship.vbproj.GenerateResource.Cache
+\\holmes\home\staff\imc\visual studio 2012\Projects\11warship\11warship\obj\Debug\11warship.exe
+\\holmes\home\staff\imc\visual studio 2012\Projects\11warship\11warship\obj\Debug\11warship.xml
+\\holmes\home\staff\imc\visual studio 2012\Projects\11warship\11warship\obj\Debug\11warship.pdb
